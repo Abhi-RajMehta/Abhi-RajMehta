@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/akgamin07510770" target="blank"><img src="https://img.shields.io/twitter/follow/akgamin07510770?logo=twitter&style=for-the-badge" alt="akgamin07510770" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://abhi-raj-portfolio.vercel.app](https://abhi-raj-portfolio.vercel.app)
+- Mine Second Project is = https://abhi-rajmehta.github.io/Plantex-Commercial-site/
 
 - ⚡ Fun fact **The first computer bug was an actual bug.**
 
